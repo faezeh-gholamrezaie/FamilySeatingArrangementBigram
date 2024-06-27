@@ -3,6 +3,7 @@ This repository contains a Python code implementation for generating optimal sea
 <div align="center">
     <img width="40%" src="https://github.com/faezeh-gholamrezaie/FamilySeatingArrangementBigram/blob/main/EfficientSeating.png">
 </div>
+
 # Overview
 In this project, we start by generating 400 random names for individuals. These names include both first names and surnames. Next, we organize these individuals into 80 groups of 5, ensuring each group is contiguous.
 
