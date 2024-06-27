@@ -4,7 +4,7 @@ This repository contains a Python code implementation for generating optimal sea
     <img width="40%" src="https://github.com/faezeh-gholamrezaie/FamilySeatingArrangementBigram/blob/main/EfficientSeating.png">
 </div>
 
-# Overview
+## Overview
 In this project, we start by generating 400 random names for individuals. These names include both first names and surnames. Next, we organize these individuals into 80 groups of 5, ensuring each group is contiguous.
 
 To simulate seating arrangements, we create differences between individuals, ensuring that individuals within the same group have zero differences. We construct a difference matrix where individuals with differences are marked with a value of 1.
