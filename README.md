@@ -19,3 +19,7 @@ For the main task, we compute differences between the 80 groups. A group can hav
 #### Output
 The output of this model is a list of 400 names arranged in optimal contiguous seating groups, minimizing differences between both groups and individuals within groups.
 
+# Resource :
+
+https://github.com/karpathy/nn-zero-to-hero/blob/master/lectures/makemore/makemore_part1_bigrams.ipynb
+
